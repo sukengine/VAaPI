@@ -1,4 +1,4 @@
-** the image build is not working(can build, but can't run), please load the image from vampi_docker/ instead*
+** the image build is not working(can build, but can't run), please load the image from vampi_docker/ instead**
 - cd vampi_docker
 - cat vampi_docker* > vampi_docker
 - docker load -i vampi_docker
